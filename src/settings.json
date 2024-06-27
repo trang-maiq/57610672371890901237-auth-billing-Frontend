@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "TechShareCon 2024 is on July 10-11",
+        "linkText": "Sign up now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into our Technical Sharing Blog to overcome common pain points, gain actionable insights, and stay ahead of industry trends with easy-to-understand and inspiring content that sets us apart from the competition.",
+        "title": "Sharing Solutions to Enhance Your Technical Expertise"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Unlock Your Innovative Potential with Yay"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Unlock Your Innovative Potential with Yay"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Unlock Your Innovative Potential with Yay"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Unlock Your Innovative Potential with Yay"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Unlock Your Innovative Potential with Yay"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Unlock Your Innovative Potential with Yay"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Unlock Your Innovative Potential with Yay",
+  "subtitle": "Empowering Minds Through Inspiring Technical Insights"
+}
